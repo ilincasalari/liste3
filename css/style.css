@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(255, 255, 255, 0.356);
+}
+h3{
+    background-color: rgb(208, 160, 253); 
+    width: 13%;  
+}
+dl{
+   border-color:  rgb(208, 160, 253);
+    border-right-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: dotted;
+}
